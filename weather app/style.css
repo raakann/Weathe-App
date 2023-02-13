@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  form {
+    display: inline-block;
+    margin-top: 50px;
+  }
+  
+  input[type="text"] {
+    padding: 10px;
+    font-size: 20px;
+  }
+  
+  button[type="submit"] {
+    padding: 10px 20px;
+    font-size: 20px;
+    background-color: lightblue;
+    border: none;
+    cursor: pointer;
+  }
+  
